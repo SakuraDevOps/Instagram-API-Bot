@@ -16,9 +16,9 @@
 	* Download GIT for Windows (https://git-scm.com/download/) *Choose WIN & 32bit/64bit
 	* Download NodeJS (https://nodejs.org/en/download/) *Choose .msi & 32bit/64bit
 	* INSTALL GIT for Windows & NodeJS
-	* Download File on Github (https://github.com/ikiganteng/bot-igeh.git)
+	* Download File on Github (https://github.com/furkangundgdu/Instagram-API-Bot.git)
 	* Extract File bot-igeh and enter the folder
-	* Right Click on Mouse, Then Select "Git Bash Here" (Make sure you are in the bot-igeh folder!!!)
+	* Right Click on Mouse, Then Select "Git Bash Here" 
 	* Then type: unzip node_modules.zip
 	* npm install https://github.com/huttarichard/instagram-private-api
 	* npm audit fix
@@ -32,7 +32,7 @@
 	* Open Termux and Wait for Automatic Install of Termux.
 	* pkg install git
 	* pkg install nodejs
-	* git clone https://github.com/ikiganteng/bot-igeh.git
+	* git clone https://github.com/furkangundgdu/Instagram-API-Bot.git
 	* cd bot-igeh
 	* unzip node_modules.zip
 	* npm install https://github.com/huttarichard/instagram-private-api
@@ -52,7 +52,7 @@
 	* sudo yum -y install nodejs
 
 	=========== Basic Usage ==============
-	* git clone https://github.com/ikiganteng/bot-igeh.git
+	* git clone https://github.com/furkangundgdu/Instagram-API-Bot.git
 	* cd bot-igeh
 	* unzip node_modules.zip
 	* npm install https://github.com/huttarichard/instagram-private-api
@@ -90,7 +90,7 @@
 	* nvm install 10.7.0
 
 	=========== Basic Usage ==============
-	* git clone https://github.com/ikiganteng/bot-igeh.git
+	* git clone https://github.com/furkangundgdu/Instagram-API-Bot.git
 	* cd bot-igeh
 	* unzip node_modules.zip
 	* nvm use 10.7.0
@@ -143,9 +143,3 @@
     6. FFTSLEEP with random sleep 
 <br/>
 
-## SPECIAL THANKS TO:
-	* Code by Ccocot (ccocot@bc0de.net)
-	* Fixing and Testing by Putu Syntax
-	* SGB TEAM REBORN
-	* BC0DE.NET | NAONLAH.NET - WingKocoli
-	* Ilyasa Fathur Rahman (Tutorial dari VPS Centos)
